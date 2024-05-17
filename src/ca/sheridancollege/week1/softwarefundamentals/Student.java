@@ -12,6 +12,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
  * push operation 
  * Showing you the change of Code
  changing the file first time from github
+ fetching and merge
  * @author dancye May 7, 2018
  */
 public class Student 
