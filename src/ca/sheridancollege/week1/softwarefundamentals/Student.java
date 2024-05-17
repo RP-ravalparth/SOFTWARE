@@ -11,6 +11,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
  * each student can: say their name (getName)
  * push operation 
  * Showing you the change of Code
+ changing the file first time from github
  * @author dancye May 7, 2018
  */
 public class Student 
